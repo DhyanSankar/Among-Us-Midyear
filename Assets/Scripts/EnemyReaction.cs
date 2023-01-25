@@ -11,8 +11,9 @@ public class EnemyReaction : MonoBehaviour {
         // Checking if the overlapped collider is an enemy 
         if (other.CompareTag ("Enemy"))
         {
+            Debug.Log("Enemy");
             // This scene HAS TO BE IN THE BUILD SETTINGS!!! 
-            SceneManager.LoadScene ("scene1"); // Your scene name
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name); // Your scene name
         }
     }
 }
