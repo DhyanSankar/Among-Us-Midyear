@@ -799,8 +799,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      AmongUsJump_25: -472942839
-      AmongUsJump_21: -767645138
+      AmongUsJump_3: -573544699
+      AmongUsJump_9: 1462902138
       AmongUsJump_7: 1181992212
       AmongUsJump_4: -2036833442
       AmongUsJump_16: -318733425
@@ -819,12 +819,12 @@ TextureImporter:
       AmongUsJump_1: 1292140246
       AmongUsJump_11: -543112694
       AmongUsJump_22: -1556050648
+      AmongUsJump_21: -767645138
       AmongUsJump_2: -398068034
-      AmongUsJump_9: 1462902138
-      AmongUsJump_3: -573544699
-      AmongUsJump_18: 1531642759
-      AmongUsJump_6: 170810522
       AmongUsJump_20: 1524806699
+      AmongUsJump_6: 170810522
+      AmongUsJump_18: 1531642759
+      AmongUsJump_25: -472942839
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
